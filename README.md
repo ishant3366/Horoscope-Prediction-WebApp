@@ -15,3 +15,7 @@ This is a simple and interactive Horoscope Prediction Web App built using HTML, 
 HTML – Structure of the web app
 CSS – Styling for a modern and clean UI
 JavaScript – Logic to generate predictions
+
+
+
+🔗- https://roaring-heliotrope-d76f24.netlify.app/
